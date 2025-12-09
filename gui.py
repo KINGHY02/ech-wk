@@ -57,8 +57,8 @@ except ImportError:
     print("安装命令: pip3 install PyQt5")
     sys.exit(1)
 
-APP_VERSION = "1.0"
-APP_TITLE = f"ECH Workers 客户端 v{APP_VERSION}"
+APP_VERSION = "1.2"
+APP_TITLE = f"ECH WK 客户端 v{APP_VERSION}"
 
 # 中国IP列表URL
 CHINA_IP_LIST_URL = "https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chn_ip.txt"
